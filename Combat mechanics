@@ -1,1 +1,8 @@
+Statistics to the combat are:
 
+Defensive stats:
+Health, which represents a body state of the player
+Armor, which represents a protective functionality of the equipment
+(Armor replaces the shield stat from the ALC)
+Endurance, which represents the raw damage absorbtion from enemy's damage
+(Endurance replaces the Armor stat from the ALC)
