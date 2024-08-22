@@ -1,8 +1,45 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------
 Statistics to the combat are:
 
 Defensive stats:
-Health, which represents a body state of the player
-Armor, which represents a protective functionality of the equipment
+1. Health, which represents a body state of the player
+2. Armor, which represents a protective functionality of the equipment
 (Armor replaces the shield stat from the ALC)
-Endurance, which represents the raw damage absorbtion from enemy's damage
+3. Endurance, which represents the raw damage absorbtion from enemy's damage
 (Endurance replaces the Armor stat from the ALC)
+4. Block rate and severity (it's common in RPG's)
+
+Offensive stats:
+1. Damage (I don't need to explain)
+2. Critical rate and severity (same)
+
+Attribute stats:
+1. Strength, which improves physical damage and physical resistance
+2. Vitality, which improves health and endurance 
+3. Dexterity, which improves kinetic damage and kinetic resistance
+4. Intelligence, which improves energy damage and energy resistance
+
+Equipment and its properties:
+1. Weapon - no matter the class every player is equipped with one weapon of its respective types:
+   - Blade, which deals physical damage (base damage is combined with physical damage)
+   - Gun, which deals kinetic damage (works accordingly above)
+   - Drone, which deals energy damage
+2. Clothing - there are 4 clothing parts which are equipped no matter the class:
+   - Upper clothing
+   - Lower clothing
+   - Boots
+   - Headgear
+3. Accessories (for all)
+   - 2 rings
+   - necklace
+4. 2 Implants exclusive for cyberpunks
+
+
+
+
+
+
+
+
+
+
