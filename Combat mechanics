@@ -1,5 +1,4 @@
------------------------------------------------------------------------------------------------------------------------------------------------
-Statistics to the combat are:
+-----------------------------------------------------------------------------------------------------------------------------------------------Statistics to the combat are:
 
 Defensive stats:
 1. Health, which represents a body state of the player
@@ -33,8 +32,15 @@ Equipment and its properties:
 3. Accessories (for all)
    - 2 rings - has 2 random attribute stats as base stats
    - necklace - has 3 random attribute stats as base stats
-4. 2 Implants exclusive for cyberpunks
-
+4. Exclusive for cyberpunks:
+   - 2 Implants which have lower clothing scale of health, armor and endurance + 1 random attribute stat
+5. Equipment's tiers:
+   - trash - (8 health + 4 armor + 0,5 endurance) × proportion scale of the equipment part
+   - common - (12 H + 6 A + 1 E)
+   - unusual - (18 H + 9 A + 1,5 E)
+   - unique - (25 H + 12 A + 2 E)
+   - special - (36 H + 18 A + 4 E)
+   - treasure - (49 H + 24 A + 8 E)
 
 
 
