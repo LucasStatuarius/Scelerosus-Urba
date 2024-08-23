@@ -22,16 +22,17 @@ Attribute stats:
 Equipment and its properties:
 1. Weapon - no matter the class every player is equipped with one weapon of its respective types:
    - Blade, which deals physical damage (base damage is combined with physical damage)
-   - Gun, which deals kinetic damage (works accordingly above)
-   - Drone, which deals energy damage
+   - Gun, which deals kinetic damage    (in every weapon damage stat is a base one)
+   - Drone, which deals energy damage   (attribute damage there would be shown as well as its equation from which it comes)
 2. Clothing - there are 4 clothing parts which are equipped no matter the class:
-   - Upper clothing
-   - Lower clothing
-   - Boots
-   - Headgear
+   - Upper clothing - has health armor and endurance stats as a base
+   - Lower clothing - same base stats as for upper clothing
+   - Boots - same
+   - Headgear - same              10        10             20              30
++ proportion of stats quantity: Boots = Headgear < Lower clothing < Upper clothing
 3. Accessories (for all)
-   - 2 rings
-   - necklace
+   - 2 rings - has 2 random attribute stats as base stats
+   - necklace - has 3 random attribute stats as base stats
 4. 2 Implants exclusive for cyberpunks
 
 
