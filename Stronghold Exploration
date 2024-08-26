@@ -1,0 +1,11 @@
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+1. In terms of strongholds exploration in both ALC and in CCO lacks a variety of ways to make it look more like an labyrinth and to make it look
+   more rewarding. That's why I will completely rewrite this game mechanic in terms of theoretical mechanisms and designs.
+
+2. Tile setting:   ################# - 17 blocks wide, 17 blocks long
+                   #               # - the more challenging it's the more difficult stronghold you choose to raid
+                   #               # - from 1-3 moving routes depending on the generation
+                   #               # - possible secret entrances generation via ? sign events
+                   #               # - possible multi-layered maps to make an exploration experience better
+                   ################# - creative way to add bonus bosses and hidden vaults containing great rewards
