@@ -9,3 +9,12 @@
                    #               # - possible secret entrances generation via ? sign events
                    #               # - possible multi-layered maps to make an exploration experience better
                    ################# - creative way to add bonus bosses and hidden vaults containing great rewards
+
+3. Specific description: - Common hall - A simple tile with 2-4 enemies on norm. mode and 1-3 norm. chests and 0-2 ? icon interaction points
+                         - Staircase hall - A tile with 3-5 enemies on normal mode and 1-2 normal chests and 0-3 ?, can lead into another story
+                         - Boss chamber - A tile with 4-6 enemies on norm. mode with addition of a Boss itself. Has 1-5 norm. chests
+                                          +1 guaranteed special chest. Only has an entrance back to where you came from
+                         - Vault room - A tile only accesible via decription key
+
+4. Game modes:
+   - Normal: Always a 1 story map with a chance to find 1 hidden entrance and 1 vault room
