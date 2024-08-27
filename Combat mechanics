@@ -19,6 +19,11 @@ Attribute stats:
 3. Dexterity, which improves kinetic damage and kinetic resistance
 4. Intelligence, which improves energy damage and energy resistance
 
+     In effect each attribute stat except for vitality has doubled count of resistance for its respective trait
+     and quadripled count of its attribute damage for each point of dexterity, strengh and intelligence.           (comb. attr. mult. with prprty)
+     If someone fights unarmed then attribute damages combine together  (for begginer without any equipment it's 12 damage from 3*4=12)
+     As for the vitality it would give a player 100 health and 1 endurance. (beginner absorbs 3 dmg for each type via 2 of res. + 1 end.)
+
 Equipment and its properties:
   1. Weapon - no matter the class every player is equipped with one weapon of its respective types:
    - Blade, which deals physical damage (base damage is combined with physical damage)
@@ -47,8 +52,9 @@ Equipment and its properties:
      lvl 2: proportion scale for its equipment + 2 (12+2=14)
      And so on and so forth
   7. Attributes traits in equipment:
-     Each 5th level after the 1st level is added 1 more attribute stat
-     so that when at 5th level it has been 1str then at 6th will be 2str and so on.
+     In effect each attribute stat except for vitality has doubled count of resistance
+     and quadripled count of attribute damage for each point of dexterity, strengh and intelligence
+     As for the vitality it would give a player 100 health and 1 endurance
   8. 
   9.
  10.
