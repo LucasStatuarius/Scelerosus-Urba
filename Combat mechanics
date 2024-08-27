@@ -48,13 +48,15 @@ Equipment and its properties:
      - special - (30 H + 15 A + 6 E)
      - treasure - (40 H + 20 A + 8 E)
   6. Equipment leveling up:
-     lvl 1: proportion scale for its equipment + 1 (for example for upper clothing: 12+1=13)
-     lvl 2: proportion scale for its equipment + 2 (12+2=14)
+     lvl 1: proportion scale for its equipment + 1 (for example for upper clothing: 8+1=9)
+     lvl 2: proportion scale for its equipment + 2 (8+2=10)
      And so on and so forth
   7. Attributes traits in equipment:
-     In effect each attribute stat except for vitality has doubled count of resistance
-     and quadripled count of attribute damage for each point of dexterity, strengh and intelligence
-     As for the vitality it would give a player 100 health and 1 endurance
+     If any equipment part has an attribute stat then it's counted like this:
+     attribute count = (lvl of eq - 1) / 5 + 1
+     for lvl 1 would be then for example only 1 str
+     for lvl 6 would be 2 str
+     for lvl 11 would be 3 str and so on and so forth
   8. 
   9.
  10.
