@@ -7,6 +7,7 @@ Defensive stats:
 3. Endurance, which represents the raw damage absorbtion from enemy's damage
 (Endurance replaces the Armor stat from the ALC)
 4. Block rate and severity (it's common in RPG's)
+5. Evasion rate: fixed probability of 4% to evade enemies attacks
 
 Offensive stats:
 1. Damage (I don't need to explain)
@@ -19,43 +20,45 @@ Attribute stats:
 4. Intelligence, which improves energy damage and energy resistance
 
 Equipment and its properties:
-1. Weapon - no matter the class every player is equipped with one weapon of its respective types:
+  1. Weapon - no matter the class every player is equipped with one weapon of its respective types:
    - Blade, which deals physical damage (base damage is combined with physical damage)
    - Gun, which deals kinetic damage    (in every weapon damage stat is a base one)
    - Drone, which deals energy damage   (attribute damage there would be shown as well as its equation from which it comes)
-2. Clothing - there are 4 clothing parts which are equipped no matter the class:
+  2. Clothing - there are 4 clothing parts which are equipped no matter the class:
    - Upper clothing - has health armor and endurance stats as a base
    - Lower clothing - same base stats as for upper clothing
    - Boots - same
    - Headgear - same              4        4             6              8
-+ proportion of stats quantity: Boots = Headgear < Lower clothing < Upper clothing
-3. Accessories (for all)
-   - 2 rings - has 1 random attribute stats as base stats
-   - necklace - has 2 random attribute stats as base stats
-4. Exclusive for cyberpunks:
-   - 2 Implants which have 5 in scale of health, armor and endurance + 1 random attribute stat
-5. Equipment's tiers:
-   - trash - (8 health + 4 armor + 1 endurance) × proportion scale of the equipment part
-   - common - (12 H + 6 A + 2 E)
-   - unusual - (18 H + 9 A + 3 E)
-   - unique - (22 H + 11 A + 4 E)
-   - special - (30 H + 15 A + 6 E)
-   - treasure - (40 H + 20 A + 8 E)
-6. Equipment leveling up:
-   lvl 1: proportion scale for its equipment + 1 (for example for upper clothing: 12+1=13)
-   lvl 2: proportion scale for its equipment + 2 (12+2=14)
-   And so on and so forth
-7. Attributes traits in equipment:
-   Each 5th level after the 1st level is added 1 more attribute stat
-   so that when at 5th level it has been 1str then at 6th will be 2str and so on.
-8. 
-9. Equipment enhancement:
-   Each equipment can be upgraded via enhancement process but there's a risk of destroying the equipment in the process.
-   Enhancing can be commenced via enhancement sets which are used for improving the stats of a certain equipment:
-   +1 
-   +2
-   +3
-   +4
+  + proportion of stats quantity: Boots = Headgear < Lower clothing < Upper clothing
+  3. Accessories (for all)
+     - 2 rings - has 1 random attribute stats as base stats
+     - necklace - has 2 random attribute stats as base stats
+  4. Exclusive for cyberpunks:
+     - 2 Implants which have 5 in scale of health, armor and endurance + 1 random attribute stat
+  5. Equipment's tiers:
+     - trash - (8 health + 4 armor + 1 endurance) × proportion scale of the equipment part
+     - common - (12 H + 6 A + 2 E)
+     - unusual - (18 H + 9 A + 3 E)
+     - unique - (22 H + 11 A + 4 E)
+     - special - (30 H + 15 A + 6 E)
+     - treasure - (40 H + 20 A + 8 E)
+  6. Equipment leveling up:
+     lvl 1: proportion scale for its equipment + 1 (for example for upper clothing: 12+1=13)
+     lvl 2: proportion scale for its equipment + 2 (12+2=14)
+     And so on and so forth
+  7. Attributes traits in equipment:
+     Each 5th level after the 1st level is added 1 more attribute stat
+     so that when at 5th level it has been 1str then at 6th will be 2str and so on.
+  8. 
+  9.
+ 10.
+ 11. Equipment enhancement:
+     Each equipment can be upgraded via enhancement process but there's a risk of destroying the equipment in the process.
+     Enhancing can be commenced via enhancement sets which are used for improving the stats of a certain equipment:
+     +1 
+     +2
+     +3
+     +4
 
 
 
