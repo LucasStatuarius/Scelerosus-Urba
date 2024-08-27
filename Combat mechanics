@@ -33,17 +33,17 @@ Equipment and its properties:
    - Upper clothing - has health armor and endurance stats as a base
    - Lower clothing - same base stats as for upper clothing
    - Boots - same
-   - Headgear - same              4        4             6              8
+   - Headgear - same                4         4             6              8
   + proportion of stats quantity: Boots = Headgear < Lower clothing < Upper clothing
   3. Accessories (for all)
      - 2 rings - has 1 random attribute stats as base stats
      - necklace - has 2 random attribute stats as base stats
   4. Exclusive for cyberpunks:
-     - 2 Implants which have 5 in scale of health, armor and endurance + 1 random attribute stat
+     - 2 Implants which have 5 in scale of health, armor and endurance + 1 random attribute stat respective to the level
   5. Equipment's tiers:
      - trash - (8 health + 4 armor + 1 endurance) × proportion scale of the equipment part
      - common - (12 H + 6 A + 2 E)
-     - unusual - (18 H + 9 A + 3 E)
+     - rare - (18 H + 9 A + 3 E)
      - unique - (22 H + 11 A + 4 E)
      - special - (30 H + 15 A + 6 E)
      - treasure - (40 H + 20 A + 8 E)
@@ -57,8 +57,25 @@ Equipment and its properties:
      for lvl 1 would be then for example only 1 str
      for lvl 6 would be 2 str
      for lvl 11 would be 3 str and so on and so forth
-  8. 
-  9.
+     attribute stats are immune to the tier-ups to balance the gameplay and to keep it simple
+  8. Weapons:
+     No matter the weapon type the damage stat is the same along its equal respective levels and tiers.
+     The proportion of the weapon damage stat is 30 and every level it goes higher by one.
+     Damage per each tier looks like this:
+     - trash - proportion of the damage * 1
+     - common - prop. of the dmg * 2
+     - rare - prop. * 3
+     - unique - prop. * 4
+     - special - prop. * 5
+     - treasure - prop. * 6
+  9. Additional stats slots:
+     For all of the equipment parts you can install additional stats depending on tiers like this:
+     - trash - 0 (properties intaller from this tier doesn't exist)
+     - common - 1
+     - rare - 2
+     - unique - 3
+     - special - 4
+     - treasure - 5
  10.
  11. Equipment enhancement:
      Each equipment can be upgraded via enhancement process but there's a risk of destroying the equipment in the process.
