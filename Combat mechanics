@@ -76,8 +76,14 @@ Equipment and its properties:
      - unique - 3
      - special - 4
      - treasure - 5
- 10.
- 11. Equipment enhancement:
+ 10. Additional stats list:
+     - block rate       - block severity
+     - critical rate    - critical severity
+     - intelligence     - dexterity
+     - strengh          - vitality
+     - health           - armor
+ 11. Additional stats varieties:
+ 12. Equipment enhancement:
      Each equipment can be upgraded via enhancement process but there's a risk of destroying the equipment in the process.
      Enhancing can be commenced via enhancement sets which are used for improving the stats of a certain equipment:
      +1 
