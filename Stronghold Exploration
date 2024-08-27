@@ -4,17 +4,32 @@
    more rewarding. That's why I will completely rewrite this game mechanic in terms of theoretical mechanisms and designs.
 
 2. Tile setting:   ################# - 17 blocks wide, 17 blocks long
-                   #               # - the more challenging it's the more difficult stronghold you choose to raid
+                   #               # - the more rewarding it's the more difficult stronghold you choose to raid
                    #               # - from 1-3 moving routes depending on the generation
                    #               # - possible secret entrances generation via ? sign events
                    #               # - possible multi-layered maps to make an exploration experience better
                    ################# - creative way to add bonus bosses and hidden vaults containing great rewards
 
-3. Specific description: - Common hall - A simple tile with 2-4 enemies on norm. mode and 1-3 norm. chests and 0-2 ? icon interaction points
-                         - Staircase hall - A tile with 3-5 enemies on normal mode and 1-2 normal chests and 0-3 ?, can lead into another story
-                         - Boss chamber - A tile with 4-6 enemies on norm. mode with addition of a Boss itself. Has 1-5 norm. chests
-                                          +1 guaranteed special chest. Only has an entrance back to where you came from
-                         - Vault room - A tile only accesible via decription key
+3. Specific description: - Common hall - A simple tile with 2-4 enemies on norm. mode and 1-4 norm. chests and 0-2 ? icon interaction points
+                         - Staircase hall - A tile with 3-5 enemies on normal mode and 1-3 normal chests and 0-3 ?, can lead into another story
+                         - Boss chamber - A tile with 4-6 enemies on norm. mode with addition of a Boss itself. Has 2-6 norm. chests
+                                          +1 guaranteed special chest. Only has an entrance back to where you came from, no ? points
+                         - Vault room - A tile only accesible from the outside via decription key. It has no enemies there and 5-7 special chests
+      Secret quarters: - A group of tiles accesible via ? points, those quarters have only special chests and there is a guaranteed vault room.
+                         - Common secret hall - 3-5 enem. 3-5 special chests, 0-2 ? points which can't lead into another secret quarters. 
+                         - Secret Bosses chamber - only 3 Bosses to defeat, 3-7 sp chests, no ? points, has an entrance to the vault
+                         - Secret Vault - Same as a normal vault in terms of access, has 5-7 special chests
+                   Stories: Depending on the gamemode you choose the stronghold will have 1-3 stories accessible via staircase hall.
+                            The staircase will only bind 2 stories at the same time, so that there will be always a way to surprise players.
 
 4. Game modes:
-   - Normal: Always a 1 story map with a chance to find 1 hidden entrance and 1 vault room
+   - Normal: 1 story stronghold with 5% chance of finding another layer, enemies you encounter fight solo against you, bosses fight with
+             a supporting enemy, secret quarters spawn in only 1% chance via ? points
+
+
+
+
+
+
+
+
