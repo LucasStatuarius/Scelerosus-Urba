@@ -63,11 +63,11 @@ Equipment and its properties:
      The proportion of the weapon damage stat is 30 and every level it goes higher by one.
      Damage per each tier looks like this:
      - trash - proportion of the damage * 1
-     - common - prop. of the dmg * 2
-     - rare - prop. * 3
-     - unique - prop. * 4
-     - special - prop. * 5
-     - treasure - prop. * 6
+     - common - prop. of the dmg * 1,4
+     - rare - prop. * 1,8
+     - unique - prop. * 2,2
+     - special - prop. * 3
+     - treasure - prop. * 4
   9. Additional stats slots:
      For all of the equipment parts you can install additional stats depending on tiers like this:
      - trash - 0 (properties intaller from this tier doesn't exist)
@@ -83,6 +83,7 @@ Equipment and its properties:
      - strengh          - vitality
      - health           - armor
  11. Additional stats varieties:
+     
  12. Equipment enhancement:
      Each equipment can be upgraded via enhancement process but there's a risk of destroying the equipment in the process.
      Enhancing can be commenced via enhancement sets which are used for improving the stats of a certain equipment:
