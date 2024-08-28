@@ -4,10 +4,8 @@ Defensive stats:
 1. Health, which represents a body state of the player
 2. Armor, which represents a protective functionality of the equipment
 (Armor replaces the shield stat from the ALC)
-3. Endurance, which represents the raw damage absorbtion from enemy's damage
-(Endurance replaces the Armor stat from the ALC)
-4. Block rate and severity (it's common in RPG's)
-5. Evasion rate: fixed probability of 4% to evade enemies attacks
+3. Block rate and severity (it's common in RPG's)
+4. Evasion rate: fixed probability of 4% to evade enemies attacks
 
 Offensive stats:
 1. Damage (I don't need to explain)
