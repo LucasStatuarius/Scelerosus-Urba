@@ -1,40 +1,82 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-1. AFK tasks in both CCO and ALC have its flaws. The first one makes AFK tasks focused on the personal grind in-game which makes you gain not so many stuff
-   while second is a nearly automatic system where you collect stuff after you wait for after you pick a task for empty AFK slots. Both of those seem to not
-   be funny for players and rather it looks like a stagnant way to gain idly resources.
+ 1. AFK tasks in both CCO and ALC have its flaws. The first one makes AFK tasks focused on the personal grind in-game which makes you gain not so many stuff
+    while second is a nearly automatic system where you collect stuff after you wait for after you pick a task for empty AFK slots. Both of those seem to not
+    be funny for players and rather it looks like a stagnant way to gain idly resources.
 
-2. Which caused me to think about not adding into Scelorosus-Urba mercenaries form ALC which makes this game's character's power dependent on those in combat
-   making it easy for p2w players to reign over non-p2w players but instead to make saved civilians from ? point encounters replace the company for the player
-   in AFK tasks support. This way AFK tasks mechanic will change completely in terms of doing such tasks and delegating it on others.
+ 2. Which caused me to think about not adding into Scelorosus-Urba mercenaries form ALC which makes this game's character's power dependent on those in combat
+    making it easy for p2w players to reign over non-p2w players but instead to make saved civilians from ? point encounters replace the company for the player
+    in AFK tasks support. This way AFK tasks mechanic will change completely in terms of doing such tasks and delegating it on others.
 
-3. At first the player can only do 1 AFK task and this would be himself to do all the labor. Such a personal space for AFK tasks would be justified by
-   the thought that player does actually do the work, in which he is busy. Soon enough if he has enough living space in the apartment he will be
-   housing survivors and providing for them food, bathing, etc. That will increase passive costs that will be made when apartment fee is paid but the player
-   will have a subordinating companions which will gladly work for you because they are mostly homeless, forsaken, poor, lost and hopeless people that
-   without you will surely meet their doom. Therefore you have to keep your money supply constant and enough to ensure their safety. If you will leave the
-   game later on without good enough money to pay rent and weekly costs for their living you will lose them all forever.
+ 3. At first the player can only do 1 AFK task and this would be himself to do all the labor. Such a personal space for AFK tasks would be justified by
+    the thought that player does actually do the work, in which he is busy. Soon enough if he has enough living space in the apartment he will be
+    housing survivors and providing for them food, bathing, etc. That will increase passive costs that will be made when apartment fee is paid but the player
+    will have a subordinating companions which will gladly work for you because they are mostly homeless, forsaken, poor, lost and hopeless people that
+    without you will surely meet their doom. Therefore you have to keep your money supply constant and enough to ensure their safety. If you will leave the
+    game later on without good enough money to pay rent and weekly costs for their living you will lose them all forever.
 
-4. The survivors will also grant you trust points, which is acquired in two ways. If you house survivors then after paid bills you will get 5 trust points
-   per housed survivor. Another way is to get bonus trust points increase when you encounter additional survivor and successfully save him/her from trouble
-   in stronghold while you don't have space for housing another companion. You can then replace the companion by the one you have saved (for looks if you
-   like having better ones if possible) and after paying a good sum of money to make them last for a while no matter if you replace someone or not you will
-   get another trust points batch (3 companions * 5 trust points gain = 15 trust points)
+ 4. Delegating jobs and doing them by yourself cost 4 exhaustion, cyberpsychosis points per task so if you as a human have low stamina it is better to focus
+    solely on AFK tasks than doing raids. Even if you do nothing and just delegate jobs for others. Cyberpunks don't have to worry about anything because they
+    use neuro stabilizers and the exhaustion they have had after delegating the job upon others is gone (they are addicted to stabilizers so they aren't here
+    bothered by anything).
 
-5. You might be wondering why you get those in the first place? Well. Those points are used for personal growth of an individual companion buying the ability
-   point which cost gradually grows. You will then choose 3 options: Either tasks delegating max capacity by 1 (base is 12 tasks), single task finishing time
-   reduction by 1 minute (base is 20 minutes) or trust points gain increase by 1 (base gain per individual is 5). Maximum stats for a companion would be:
-   max tasks delegation capacity: 24, single task time to finish: 10 min, trust points gain: 15.
+ 5. The survivors will also grant you trust points, which is acquired in two ways. If you house survivors then after paid bills you will get 5 trust points
+    per housed survivor. Another way is to get bonus trust points increase when you encounter additional survivor and successfully save him/her from trouble
+    in stronghold while you don't have space for housing another companion. You can then replace the companion by the one you have saved (for looks if you
+    like having better ones if possible) and after paying a good sum of money to make them last for a while no matter if you replace someone or not you will
+    get another trust points batch (3 companions * 5 trust points gain = 15 trust points)
 
-6. You as a player will get jobs knowledge exp no matter if you do the task by yourself or others do the work since as you live with them they 
-   share you xtheir job knowledge exp in count of 2 exp per task completed and if you do that by yourself you gain 6 exp per task completed. 
-   Job knowledge lvl up makes you have additional attribute stats which would increase for you attribute points equal to that level and it can't go 
-   higher than your level. If your class is a human you can additionally pay in in the Alatheia Guild's College for courses to gain the attributes 
-   bonuses that come solely from those job attributes bonus. 
+ 6. You might be wondering why you get those in the first place? Well. Those points are used for personal growth of an individual companion buying the ability
+    point which cost gradually grows. You will then choose 3 options: Either tasks delegating max capacity by 1 (base is 12 tasks), single task finishing time
+    reduction by 1 minute (base is 25 minutes) or trust points gain increase by 1 (base gain per individual is 5). Maximum stats for a companion would be:
+    max tasks delegation capacity: 24, single task time to finish: 15 min, trust points gain: 15.
 
-7. Personally done tasks give you additionally practice proficiency exp which give you practice points as you level up. Those practice points give you
-   ways to: (improve stamina by 50 combined with recovery time reduction by 1 minute only as a human), (improve the number of tasks 
-   
+ 7. You as a player will get jobs knowledge exp no matter if you do the task by yourself or others do the work since as you live with them they 
+    share you their job knowledge exp in count of 2 exp per task completed and if you do that by yourself you gain 6 exp per task completed. 
+    Job knowledge lvl up makes you have additional attribute stats which would increase for you attribute points equal to that level and it can't go 
+    higher than your level. If your class is a human you can additionally pay in in the Alatheia Guild's College for courses to gain the attributes 
+    bonuses that come solely from those job attributes bonus. 
+
+ 8. That all above is in effect for both humans and cyberpunks equally. However from this point forward I will divide the AFK mechanic for humans and
+    cyberpunks.
+
+ 9. Cyberpunks do personally tasks within 20 minutes, no more and no less, that's because of both their improved body functions by reconstructing their
+    body to have no need to eat, drink, excrete, rest and so on. However that made them robotic and they have to do that thing slightly slower because they 
+    have lost their natural instincts and habits which is humans advantage point. At once they can do 15 tasks at maximum because that's written within the
+    installed into an implant protocols which explain the need to make every cyberpunk have a break to rewire and cool down the processors.
+
+10. Humans although they have very slow pace at the beginning when they lack proficiency in working practices they are eager to learn. Their natural bodies
+    made by the image of The Lord (according to the Lucas's commentary) are capable of exalting above cyberpunks dramatically when they will put hard work
+    and focus. There is also a certain limit to their growth which can be broken by some teachings of a certain monk however this demands getting away from
+    the city and taking a long walk to the place that has no roads to drive through and to get there you have to go through a dense forest which is the 
+    reason why that monk is living there. Back to the topic. Humans at first are able to do at max 10 tasks within 25 minutes period but as they complete
+    a certain amount of tasks they get into another level of proficiency. This makes them get 1 proficiency point which in turn makes them choose between
+    the discipline trait proficiency (expanding tasks cap. by 1 up to 24) and time management proficiency (reducing by 1 min task finishing period to 15 min).
+
+11. Job types, Civilians:
+    - scavenging - for equipment traits imbuers (from common to special grade), associate maintenance resources (increases vitality)
+    - smuggling - for equipment grade-up kits (from common to special grade), territory control resources       (increases strengh)
+    - begging - for equipment improvement kits (from common to special grade), random equipment parts           (increases intelligence)
+    - delivering - for food ingredients, meds, shadow coins                                                     (increases dexterity)
+
+12. Job types, bands:
+    - assaulting    (vit)
+    - bodyguarding  (str)
+    - dealing       (int)
+    - theft         (dex)
+
+13. Job types, hordes:
+    - raiding      (vit)
+    - robbery      (str)
+    - intimidation (int)
+    - pillaging    (dex)
+
+14. Job types, enterprises:
+    - 
+    - 
+    - corrupting
+    - 
+
 
 
 
