@@ -23,50 +23,36 @@ Attribute stats:
      As for the vitality it would give a player 100 health and 1 endurance. (beginner absorbs 3 dmg for each type via 2 of res. + 1 end.)
 
 Equipment and its properties:
-  1. Weapon - no matter the class every player is equipped with one weapon of its respective types:
-   - Blade, which deals physical damage (base damage is combined with physical damage)
-   - Gun, which deals kinetic damage    (in every weapon damage stat is a base one)
-   - Drone, which deals energy damage   (attribute damage there would be shown as well as its equation from which it comes)
-  2. Clothing - there are 4 clothing parts which are equipped no matter the class:
+  1. Clothing - there are 4 clothing parts which are equipped no matter the class:
    - Upper clothing - has health armor and endurance stats as a base
    - Lower clothing - same base stats as for upper clothing
    - Boots - same
    - Headgear - same                4         4             6              8
   + proportion of stats quantity: Boots = Headgear < Lower clothing < Upper clothing
-  3. Accessories (for all)
+  2. Accessories (for all)
      - 2 rings - has 1 random attribute stats as base stats
      - necklace - has 2 random attribute stats as base stats
-  4. Exclusive for cyberpunks:
+  3. Exclusive for cyberpunks:
      - 2 Implants which have 5 in scale of health, armor and endurance + 1 random attribute stat respective to the level
-  5. Equipment's tiers:
+  4. Equipment's tiers:
      - trash - (8 health + 4 armor + 1 endurance) × proportion scale of the equipment part
      - common - (12 H + 6 A + 2 E)
      - rare - (18 H + 9 A + 3 E)
      - unique - (22 H + 11 A + 4 E)
      - special - (30 H + 15 A + 6 E)
      - treasure - (40 H + 20 A + 8 E)
-  6. Equipment leveling up:
+  5. Equipment leveling up:
      lvl 1: proportion scale for its equipment + 1 (for example for upper clothing: 8+1=9)
      lvl 2: proportion scale for its equipment + 2 (8+2=10)
      And so on and so forth
-  7. Attributes traits in equipment:
+  6. Attributes traits in equipment:
      If any equipment part has an attribute stat then it's counted like this:
      attribute count = (lvl of eq - 1) / 5 + 1
      for lvl 1 would be then for example only 1 str
      for lvl 6 would be 2 str
      for lvl 11 would be 3 str and so on and so forth
      attribute stats are immune to the tier-ups to balance the gameplay and to keep it simple
-  8. Weapons:
-     No matter the weapon type the damage stat is the same along its equal respective levels and tiers.
-     The proportion of the weapon damage stat is 30 and every level it goes higher by one.
-     Damage per each tier looks like this:
-     - trash - proportion of the damage * 1
-     - common - prop. of the dmg * 1,4
-     - rare - prop. * 1,8
-     - unique - prop. * 2,2
-     - special - prop. * 3
-     - treasure - prop. * 4
-  9. Additional stats slots:
+  7. Additional stats slots:
      For all of the equipment parts you can install additional stats depending on tiers like this:
      - trash - 0 (properties intaller from this tier doesn't exist)
      - common - 1
@@ -74,14 +60,15 @@ Equipment and its properties:
      - unique - 3
      - special - 4
      - treasure - 5
- 10. Additional stats list:
+  8. Additional stats list:
      - block rate       - block severity
      - critical rate    - critical severity
      - intelligence     - dexterity
      - strengh          - vitality
      - health           - armor
- 11. Additional stats varieties:
-     
+  9. Additional stats quality varieties:
+     a) block rate: q1: 3%, q2: 4%, q3: 5%, q4: 6%, q5: 7%
+     b) block severity: q1: 2%, q2: 3%, q3: 4%, q4: 5%, q5: 6%
  12. Equipment enhancement:
      Each equipment can be upgraded via enhancement process but there's a risk of destroying the equipment in the process.
      Enhancing can be commenced via enhancement sets which are used for improving the stats of a certain equipment:
